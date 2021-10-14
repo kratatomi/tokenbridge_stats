@@ -4,7 +4,7 @@ A simple tool for getting the usage stats of tokenbridge.cash based on Web3py.
 Requirements:\
 -Python 3\
 -Web3py: pip3 install web3\
--TQDM: pip3 install web3
+-TQDM: pip3 install tqdm
 
 How to run it:\
 $ chmod +x get_stats.sh\
